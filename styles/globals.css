@@ -1,7 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
 
 /* //THEME 1 */
-/* :root{
+:root{
   --icons-color: #4c5773;
   --icons-light-color: #4c577341;
   --icons-bg-color: #e2e6e9;
@@ -17,10 +17,10 @@
   --box-shadow-2: 0rem 0rem 0rem var(--shadow-dark-color),
   -.3rem -.3rem 1rem var(--shadow-dark-color)
 
-} */
+} 
 
 /* //THEME 11 */
-/* :root{
+/*:root{
   --icons-color: #fff;
   --icons-light-color: #fff57;
   --icons-bg-color: #fff;
@@ -34,9 +34,10 @@
 
   --box-shadow-2:1px 1px 2px #8f2c2c,
   -1px -1px 2px #c13c3c;
-} */
-
+} 
+*/
 /* //THEME 2 */
+/*
 :root {
   --icons-color: #ffdf2b;
   --icons-light-color: #ffdf2b57;
@@ -51,7 +52,7 @@
 
   --box-shadow-2: 1px 1px 2px #ffdf2b, -1px -1px 2px #ffdf2b;
 }
-
+*/
 /* //THEME 3 */
 /* :root{
   --icons-color: #9001F5;
@@ -197,7 +198,8 @@
 } */
 
 /* //THEME 11 */
-/* :root{
+/*
+ :root{
   --icons-color: #F83166;
   --icons-light-color: #F8316657;
   --icons-bg-color: #F83166;
@@ -211,8 +213,8 @@
 
   --box-shadow-2:1px 1px 2px #8f2c2c,
   -1px -1px 2px #c13c3c;
-} */
-
+} 
+*/
 html,
 body {
   padding: 0;
